@@ -1,0 +1,48 @@
+.container1{
+  background-color: white;
+}
+li.nav-item{
+  margin-right: 20px;
+}
+.dropdown-item{
+  z-index:1000 !important;
+}
+.navbar{
+  box-shadow: 0 .5rem .5rem rgba(0,0,0,.1);
+
+}
+.carousel-item{
+  height:450px;
+}
+.jumbotron h1{
+  text-align: center;
+}
+#container1{
+  margin-top: 50px;
+  max-width: 100%;
+}
+.jumbotron{
+  margin-bottom: 0px;
+background-color: 	rgb(240,240,240);
+}
+body{
+  background-color: 	rgb(240,240,240);
+}
+#img_article1{
+  height: 400px;
+  width:  320px;
+}
+.login-content{
+position: relative;
+bottom:45px;
+}
+#login{
+
+text-align: center;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border: 5px solid gray;
+  padding: 50px;
+  width: 180px;
+  height:80px;
+}
